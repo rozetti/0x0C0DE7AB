@@ -1,0 +1,33 @@
+QMainWindow {
+        background-color: rgb(50, 50, 50);
+        }
+
+QPushButton {
+        color: black;
+        }
+
+QPushButton:disabled {
+        color: gray;
+        }
+
+QRadioButton {
+        background-color: gray;
+        }
+
+QTextEdit#consoleOutput {
+        color: rgb(0, 255, 0);
+        }
+
+RZQtCodeEditor {
+        qproperty-currentLineHighlightColour: rgb(30, 30, 30);
+        background-color:rgb(200, 200, 200);
+        font-family: "monospace";
+        }
+
+RZQtConsoleWidget {
+        background-color:black;
+        }
+RZQtIDELeftGutterWidget {
+        qproperty-gutterBackgroundColour:lightGray;
+        qproperty-gutterTextColour:black;
+        }

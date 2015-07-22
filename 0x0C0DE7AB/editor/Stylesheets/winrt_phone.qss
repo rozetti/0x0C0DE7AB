@@ -1,0 +1,16 @@
+QListView {
+        font-size: 30px;
+        }
+QRadioButton {
+        font-size: 25px;
+        }
+QPushButton {
+        font-size: 25px;
+        }
+
+CodeEditor {
+        font-size: 20px;
+        }
+LeftGutterWidget {
+        qproperty-textSize: 20;
+        }

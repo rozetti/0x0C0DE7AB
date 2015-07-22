@@ -1,0 +1,16 @@
+QListView {
+        font-size: 20px;
+        }
+QRadioButton {
+        font-size: 20px;
+        }
+QPushButton {
+        font-size: 20px;
+        }
+CodeEditor {
+        font-family: "Courier New";
+        font-size: 20px;
+        }
+LeftGutterWidget {
+        qproperty-textSize: 50;
+        }

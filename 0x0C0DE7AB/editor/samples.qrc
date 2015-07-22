@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/Assets">
+        <file>source.txt</file>
+        <file alias="test_binding.subc">C:/Users/conrad/Documents/GitHubVisualStudio/6ITProject/Samples/SubC_sample/TestFiles/test_binding.subc</file>
+        <file alias="test_fibonacci_lua.lua">C:/Users/conrad/Documents/GitHubVisualStudio/6ITProject/Samples/SubC_sample/TestFiles/test_fibonacci_lua.lua</file>
+        <file alias="test_fibonacci_lua.subc">C:/Users/conrad/Documents/GitHubVisualStudio/6ITProject/Samples/SubC_sample/TestFiles/test_fibonacci_lua.subc</file>
+        <file alias="test_fibonacci_native.subc">C:/Users/conrad/Documents/GitHubVisualStudio/6ITProject/Samples/SubC_sample/TestFiles/test_fibonacci_native.subc</file>
+        <file alias="test_fibonacci_subc.subc">C:/Users/conrad/Documents/GitHubVisualStudio/6ITProject/Samples/SubC_sample/TestFiles/test_fibonacci_subc.subc</file>
+        <file alias="test_float.subc">C:/Users/conrad/Documents/GitHubVisualStudio/6ITProject/Samples/SubC_sample/TestFiles/test_float.subc</file>
+        <file alias="test_function_call.subc">C:/Users/conrad/Documents/GitHubVisualStudio/6ITProject/Samples/SubC_sample/TestFiles/test_function_call.subc</file>
+        <file alias="test_globals.subc">C:/Users/conrad/Documents/GitHubVisualStudio/6ITProject/Samples/SubC_sample/TestFiles/test_globals.subc</file>
+        <file alias="test_if.subc">C:/Users/conrad/Documents/GitHubVisualStudio/6ITProject/Samples/SubC_sample/TestFiles/test_if.subc</file>
+        <file alias="test_loops.subc">C:/Users/conrad/Documents/GitHubVisualStudio/6ITProject/Samples/SubC_sample/TestFiles/test_loops.subc</file>
+        <file alias="test_main.subc">C:/Users/conrad/Documents/GitHubVisualStudio/6ITProject/Samples/SubC_sample/TestFiles/test_main.subc</file>
+        <file alias="test_operators.subc">C:/Users/conrad/Documents/GitHubVisualStudio/6ITProject/Samples/SubC_sample/TestFiles/test_operators.subc</file>
+        <file alias="test_threads.subc">C:/Users/conrad/Documents/GitHubVisualStudio/6ITProject/Samples/SubC_sample/TestFiles/test_threads.subc</file>
+    </qresource>
+</RCC>

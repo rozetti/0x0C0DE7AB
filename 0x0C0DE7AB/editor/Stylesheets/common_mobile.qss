@@ -1,0 +1,8 @@
+QMainWindow {
+        background-color: rgb(50, 50, 50);
+        }
+
+QTextEdit#consoleOutput {
+        background-color: rgb(5, 5, 5);
+        font-size: 25px;
+        }

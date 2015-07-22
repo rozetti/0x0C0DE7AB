@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Stylesheets/winrt_phone.qss</file>
+        <file>Stylesheets/winrt_desktop.qss</file>
+        <file>Stylesheets/windows_desktop.qss</file>
+        <file>Stylesheets/common.qss</file>
+        <file>Stylesheets/common_desktop.qss</file>
+        <file>Stylesheets/common_mobile.qss</file>
+        <file>Stylesheets/android.qss</file>
+        <file>Stylesheets/ios.qss</file>
+        <file>Stylesheets/linux_desktop.qss</file>
+    </qresource>
+</RCC>

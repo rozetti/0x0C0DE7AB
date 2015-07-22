@@ -1,0 +1,23 @@
+QMainWindow {
+        background-color: rgb(20, 20, 20);
+        }
+QListView {
+        font-size: 30px;
+        }
+QRadioButton {
+        font-size: 25px;
+        }
+QPushButton {
+        font-size: 25px;
+        }
+
+RZQtCodeEditor {
+        font-size: 30px;
+        }
+
+RZQtIDELeftGutterWidget {
+        qproperty-textSize: 30;
+        }
+QTextEdit#consoleOutput {
+        font-size: 30px;
+        }
